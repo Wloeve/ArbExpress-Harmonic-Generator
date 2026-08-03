@@ -1,0 +1,21 @@
+# 编译中间产物
+*.o
+src/app_res.o
+
+# 构建工具临时文件
+*.tmp
+*.bak
+*.log
+
+# IDE 文件
+.vscode/
+.idea/
+*.user
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 程序运行生成的 CSV
+harmonic_waveform.csv

@@ -1,0 +1,6 @@
+1 24 "src/app.manifest"
+1 ICON "ciallo.ico"
+
+// 嵌入图片资源 (防止 exe 移动后图片丢失)
+100 PNG "CialloSystem_ba-style@nulla.top.png"
+101 JPG "ciallo.jpg"
