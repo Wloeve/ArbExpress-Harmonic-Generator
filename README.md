@@ -1,0 +1,2 @@
+# ArbExpress-Harmonic-Generator
+生成一个能被ArbExpress Application读取的谐波，方便导入至函数发生器中使用
